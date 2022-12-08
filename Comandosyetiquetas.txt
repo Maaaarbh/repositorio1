@@ -1,0 +1,29 @@
+Etiquetas utilizadas:
+<!DOCTYPE HTML PUBLIC>
+<html>
+<head>
+<title>
+<body>
+<p>
+
+Código de documento
+<!DOCTYPE HTML PUBLIC>
+<html>
+  <head>
+    <!--Escribimos el titulo que tendra nuestra pagina-->
+    <title>Sitio web sobre html y css</title>
+  </head>
+  <!--Escribimos algunas lineas de informacion que contendra la misma-->
+  <body>
+    <p>¡Esta es mi web!</p>
+    <p>Bienvenidos y bienvenidas</p>
+    <p> Realizando primer cambio a código de estructura html</p>
+    <p> Realizando segundo cambio a código de estructura html 2</p>
+    <p> Realizando segundo cambio a código de estructura html 3</p>
+
+    Esos son los cambios al codigo
+  
+    n
+  </body>
+  <!--Cerramos la etiqueta-->
+</html>
